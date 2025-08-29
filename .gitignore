@@ -1,0 +1,7 @@
+.venv/
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
